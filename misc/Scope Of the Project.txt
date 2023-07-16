@@ -1,0 +1,10 @@
+
+->The Scope of the Project is to achieve Distribution of Covid Vaccine in Efficient Manner.
+
+-> Here we try to ensure that Vaccination should be distributed through right manner and try to fullfill the Requirement of project.
+
+-> This project manages Registration, Appointment Scheduling, Managing Vaccines and Certification for Vaccination 	Community Members.
+
+-> This Project also Helps to Count the Population of Country and Also try to monitor Fit and Unfit ratio of Country.
+
+-> This Project will not provide vaccine for age less than 10 years.
